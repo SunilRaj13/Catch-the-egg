@@ -1,4 +1,4 @@
-# StepIn-Mini-project
+# Conversion of Numbers
 
 Build | Code Quality | Unity | [Git Inspector](using github.io option)
 ------|----------|-------|--------------
