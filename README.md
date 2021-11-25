@@ -1,6 +1,8 @@
 # Conversion of Numbers
 
-[![Codacy Badge](https://app.codacy.com/project/badge/Grade/abffafb0a99745c2bb94e08e11a91def)](https://www.codacy.com/gh/SunilRaj13/M1_Application_Conversion_of_Numbers/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=SunilRaj13/M1_Application_Conversion_of_Numbers&amp;utm_campaign=Badge_Grade)
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/abffafb0a99745c2bb94e08e11a91def)](https://www.codacy.com/gh/SunilRaj13/M1_Application_Conversion_of_Numbers/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=SunilRaj13/M1_Application_Conversion_of_Numbers&amp;utm_campaign=Badge_Grade)                               
+[![Codacy Badge](https://api.codiga.io/project/30039/score/svg)](https://app.codiga.io/public/project/30039/M1_Application_Conversion_of_Numbers/dashboard)
+[![Codacy Badge](https://api.codiga.io/project/30039/status/svg)](https://app.codiga.io/public/project/30039/M1_Application_Conversion_of_Numbers/dashboard)
 
 ## Folder structure:
 
