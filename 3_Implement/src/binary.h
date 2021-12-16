@@ -50,5 +50,5 @@ Conversion_bin transformBinary(Input_bin a)
         *(res.binary_op) = 0;
         res.arr_l = 1;
     }
-   
+    return res;
 }
